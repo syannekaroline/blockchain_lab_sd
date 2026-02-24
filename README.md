@@ -3,6 +3,7 @@
 ## Integrantes
 - Syanne Karroline Moreira Tavares
 - Luiz Jordany de Sousa Silva
+- Ivan Luis Gama Grana
 
 ## Visao geral (curta)
 Este projeto implementa uma criptomoeda/transacao distribuida simplificada, seguindo os requisitos de `LSD 2025 - Blockchain.pdf` e o protocolo definido em `Padrao_blockchain.pdf`. Cada no roda como processo independente, mantem sua copia local da blockchain, propaga transacoes e blocos via sockets TCP com JSON e executa Proof of Work (hash iniciando com `000`).
